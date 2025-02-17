@@ -1,0 +1,4 @@
+user-agent: *
+Disallow: 
+
+https://nathanialrosales.github.io/bio/Kisah-Keberuntungan-yang-Tak-Terduga.html/sitemap.xml
