@@ -1,4 +1,0 @@
-user-agent: *
-Disallow: 
-
-https://nathanialrosales.github.io/bio/sitemap.xml
